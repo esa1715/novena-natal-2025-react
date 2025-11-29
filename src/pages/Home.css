@@ -1,0 +1,29 @@
+.subtitulo {
+    font-family: 'EB Garamond', serif;
+    font-size: 1.875rem;
+    font-weight: 700;
+    color: #11316B;
+    margin-bottom: 0.5rem;
+    position: relative;
+}
+
+.subtitulo::after {
+    content: '';
+    display: block;
+    width: 75%;
+    height: 3px;
+    background: linear-gradient(90deg, #11316B, #0C1F3F);
+    margin: 0.5rem auto 0;
+    border-radius: 2px;
+}
+
+.descricao-principal {
+        font-family: 'EB Garamond', serif;
+
+    font-size: 1rem;
+    font-weight: 400;
+    color: #333333;
+    margin-bottom: 2rem;
+    font-style: italic;
+    text-align: center;
+}

@@ -1,0 +1,52 @@
+.card-container {
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+    width: 100%;
+}
+
+.card {
+    display: flex;
+    align-items: center;
+    gap: 1.5rem;
+    cursor: pointer;
+    background-color: #F1F1F1;
+    border-radius: 1rem;
+}
+
+.numero-dia {
+    text-align: center;
+    background-color: grey;
+    color: white;
+    padding: 2.5rem 1rem;
+    border-radius: 1rem;
+}
+
+.numero-dia .numero {
+    display: block;
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.numero-dia .dia {
+    display: block;
+    font-size: 1rem;
+    letter-spacing: 2px;
+}
+
+.card-resumo {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    gap: 0.5rem;
+}
+
+.titulo-encontro {
+    font-weight: bold;
+    font-size: 1rem;
+    color: #000;
+}
+
+.descricao-encontro {
+    font-size: 0.875rem;
+}
