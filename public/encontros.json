@@ -3,23 +3,19 @@
         "titulo": "O Natal:\nMistério de Encontro e Caminho",
         "descricao": "\"Vão depressa e encontrarão um\n menino envolto em faixas\n e deitado numa manjedoura\" (Lc 2,12)",
         "acolhidaCanto": {
-  "nome": "Vigia Esperando Aurora",
-  "video": "4ZobBhmKkMY",
-      "letra": "<strong>Vigia, esperando a aurora, qual noiva esperando o amor<br>É assim que o servo espera a vinda do seu Senhor<br>É assim que o servo espera a vinda do seu Senhor</strong><br><br>Ao longe, um galo vai cantar seu canto<br>O Sol, no céu, vai estender seu manto<br>Na madrugada eu estarei desperto<br>Que já vem perto o dia do Senhor<br><br>A minha voz vai acordar meu povo<br>Louvando a Deus que faz um mundo novo<br>Não vou ligar se a madrugada é fria<br>Que um novo dia logo vai chegar<br><br>Se é noite escura, acendo a minha tocha<br>Dentro do peito o Sol já desabrocha<br>Filho da luz, não vou dormir: Vigio<br>Ao mundo frio vou levar o amor!"
-
-}
-
+            "nome": "Vigia Esperando Aurora",
+            "video": "4ZobBhmKkMY",
+            "letra": "<strong>Vigia, esperando a aurora, qual noiva esperando o amor<br>É assim que o servo espera a vinda do seu Senhor<br>É assim que o servo espera a vinda do seu Senhor</strong><br><br>Ao longe, um galo vai cantar seu canto<br>O Sol, no céu, vai estender seu manto<br>Na madrugada eu estarei desperto<br>Que já vem perto o dia do Senhor<br><br>A minha voz vai acordar meu povo<br>Louvando a Deus que faz um mundo novo<br>Não vou ligar se a madrugada é fria<br>Que um novo dia logo vai chegar<br><br>Se é noite escura, acendo a minha tocha<br>Dentro do peito o Sol já desabrocha<br>Filho da luz, não vou dormir: Vigio<br>Ao mundo frio vou levar o amor!"
+        }
     },
     {
         "titulo": "Maria: Modelo de Escuta\n e Caminho de Comunhão",
         "descricao": "\"Maria conservava todas essas palavras,\n meditando-as no seu coração\"\n(Lc 2,19-20)",
         "acolhidaCanto": {
-  "nome": "Nome do Canto",
-  "video": "ID_DO_VIDEO",
-  "letra": "Letra do canto aqui..."
-}
-
-
+            "nome": "Pelas Estradas da Vida",
+            "video": "4HSDYtWkhWA",
+            "letra": "Pelas estradas da vida, nunca sozinho estás.<br>Contigo pelo caminho, Santa Maria vai.<br><br><strong>Ó, vem conosco, vem caminhar Santa Maria vem. (bis)</strong><br><br>Se pelo mundo os homens, sem conhecer-se, vão,<br>Não negues nunca a tua mão a quem te encontrar"
+        }
     },
     {
         "titulo": "José: O Discernimento\n e a Obediência na Missão",

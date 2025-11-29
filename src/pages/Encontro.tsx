@@ -52,33 +52,27 @@ export default function Encontro() {
   </div>
   <div className="secao-conteudo">
     
-    {/* Se houver canto dentro da acolhida */}
     {encontro.acolhidaCanto && (
       <>
         <div className="player-container">
           <iframe
-            // width="100%"
-            // height="auto"
-            // aspect-ratio= "3 / 2"
             src={`https://www.youtube.com/embed/${encontro.acolhidaCanto.video}`}
             title={`Player do YouTube - ${encontro.acolhidaCanto.nome}`}
             // frameBorder="0"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
             allowFullScreen
-                style={{ width: '100%', height: '100%' }}
-
+            style={{ width: '100%', height: '100%' }}
           />
         </div>
-
-<p>
+        <div className='canto-acolhida'> 
+        <p>
           <strong>Canto:</strong> {encontro.acolhidaCanto.nome}
         </p>
-<p
-  className="letra-canto"
-  dangerouslySetInnerHTML={{ __html: encontro.acolhidaCanto.letra }}
-/>
-
-
+        <p
+          className="letra-canto"
+          dangerouslySetInnerHTML={{ __html: encontro.acolhidaCanto.letra }}
+        />
+        </div>
       </>
     )}
   </div>

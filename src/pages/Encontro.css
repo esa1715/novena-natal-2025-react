@@ -1,9 +1,13 @@
 .card-container {
     display: flex;
     flex-direction: column;
+    gap: 1.75rem;
 }
 
 .secao {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
     text-align: left;
 }
 
@@ -15,8 +19,18 @@
     border-radius: 0 2rem 2rem 0;
 }
 
+.secao-conteudo {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
 .player-container {
     width: 100%;
     height: auto;
     aspect-ratio: 16 / 9;
+}
+
+.canto-acolhida {
+    padding: 0 0.5rem;
 }
