@@ -4,10 +4,18 @@ import { useParams } from "react-router-dom";
 import { useEffect, useState } from "react";
 import BaseLayout from "../layouts/BaseLayout";
 
+type Canto = {
+  nome: string;
+  video: string; // só o ID do YouTube
+  letra: string;
+};
+
 type Encontro = {
   titulo: string;
   descricao: string;
+  acolhidaCanto?: Canto;
 };
+
 
 export default function Encontro() {
   const { dia } = useParams<{ dia: string }>();
@@ -37,6 +45,45 @@ export default function Encontro() {
             <p className='descricao-encontro' dangerouslySetInnerHTML={{ __html: encontro.descricao.replace(/\n/g, "<br/>") }} />
           </div>
         </article>
+        <div className="card-content">
+            <section className="secao">
+  <div className="secao-titulo">
+    <h3>ACOLHIDA</h3>
+  </div>
+  <div className="secao-conteudo">
+    
+    {/* Se houver canto dentro da acolhida */}
+    {encontro.acolhidaCanto && (
+      <>
+        <div className="player-container">
+          <iframe
+            width="100%"
+            height="auto"
+            aspect-ratio= "16 / 9"
+            src={`https://www.youtube.com/embed/${encontro.acolhidaCanto.video}`}
+            title={`Player do YouTube - ${encontro.acolhidaCanto.nome}`}
+            // frameBorder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allowFullScreen
+          />
+        </div>
+
+<p>
+          <strong>Canto:</strong> {encontro.acolhidaCanto.nome}
+        </p>
+<p
+  className="letra-canto"
+  dangerouslySetInnerHTML={{ __html: encontro.acolhidaCanto.letra }}
+/>
+
+
+      </>
+    )}
+  </div>
+</section>
+
+
+            </div>
       </div>
     </BaseLayout>
   );

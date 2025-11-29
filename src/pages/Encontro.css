@@ -1,0 +1,16 @@
+.card-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.secao {
+    text-align: left;
+}
+
+.secao-titulo {
+    padding: 0.25rem 1rem 0.25rem 0.5rem;
+    background-color: grey;
+    color: white;
+    width: fit-content;
+    border-radius: 0 2rem 2rem 0;
+}
