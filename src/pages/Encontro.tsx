@@ -57,14 +57,16 @@ export default function Encontro() {
       <>
         <div className="player-container">
           <iframe
-            width="100%"
-            height="auto"
-            aspect-ratio= "16 / 9"
+            // width="100%"
+            // height="auto"
+            // aspect-ratio= "3 / 2"
             src={`https://www.youtube.com/embed/${encontro.acolhidaCanto.video}`}
             title={`Player do YouTube - ${encontro.acolhidaCanto.nome}`}
             // frameBorder="0"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
             allowFullScreen
+                style={{ width: '100%', height: '100%' }}
+
           />
         </div>
 
