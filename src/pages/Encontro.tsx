@@ -6,14 +6,20 @@ import BaseLayout from "../layouts/BaseLayout";
 
 type Canto = {
   nome: string;
-  video: string; // só o ID do YouTube
+  video: string;
   letra: string;
 };
+
+type Leitura = {
+  titulo: string;
+  texto: string;
+}
 
 type Encontro = {
   titulo: string;
   descricao: string;
   acolhidaCanto?: Canto;
+  proclamacaoDaPalavra?: Leitura;
   brevesComentariosCanto?: Canto;
   oracaoFinalCanto?: Canto;
 };
@@ -97,7 +103,14 @@ export default function Encontro() {
             </div>
             <div className="secao-conteudo">
               <p><strong>Canto:</strong> Aleluia...</p>
-              <br />
+              {encontro.proclamacaoDaPalavra && (
+                <>
+                  <div className='proclamao-da-palavra'>
+                    <p>{encontro.proclamacaoDaPalavra.titulo}</p>
+                    <p className='proclamacao-da-palavra-texto'>{encontro.proclamacaoDaPalavra.texto}</p>
+                  </div>
+                </>
+              )}
               <p></p>
             </div>
           </section>

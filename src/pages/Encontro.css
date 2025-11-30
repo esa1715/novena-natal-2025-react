@@ -32,11 +32,11 @@
     aspect-ratio: 16 / 9;
 }
 
-.canto-acolhida, .oracao-inicial, .oracao-final {
+.canto-acolhida, .oracao-inicial, .oracao-final, .proclamacao-da-palavra {
     padding: 0 0.25rem;
 }
 
-.oracao-inicial p, .oracao-final p {
+.oracao-inicial p, .oracao-final p, .proclamacao-da-palavra-texto {
     text-align: justify;
 }
 
@@ -46,5 +46,5 @@
 
 strong {
   font-style: italic;
-  font-weight: bold; /* mantém o efeito de <strong> */
+  font-weight: bold;
 }
