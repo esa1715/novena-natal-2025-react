@@ -9,6 +9,7 @@
     flex-direction: column;
     gap: 1rem;
     text-align: left;
+    padding-bottom: 1rem;
 }
 
 .secao-titulo {
@@ -41,4 +42,9 @@
 
 .oracao-inicial span, .oracao-final span {
     font-style: italic;
+}
+
+strong {
+  font-style: italic;
+  font-weight: bold; /* mantém o efeito de <strong> */
 }
