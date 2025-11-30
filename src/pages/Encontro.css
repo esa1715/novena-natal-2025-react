@@ -31,14 +31,14 @@
     aspect-ratio: 16 / 9;
 }
 
-.canto-acolhida, .oracao-inicial {
+.canto-acolhida, .oracao-inicial, .oracao-final {
     padding: 0 0.25rem;
 }
 
-.oracao-inicial p {
+.oracao-inicial p, .oracao-final p {
     text-align: justify;
 }
 
-.oracao-inicial span {
+.oracao-inicial span, .oracao-final span {
     font-style: italic;
 }
