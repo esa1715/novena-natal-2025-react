@@ -73,6 +73,18 @@ export default function Encontro() {
           dangerouslySetInnerHTML={{ __html: encontro.acolhidaCanto.letra }}
         />
         </div>
+        <div className='oracao-inicial'> 
+        <p>
+          <strong>Oração Inicial:</strong>
+        </p>
+        <p>Senhor Deus, nesta noite santa do natal, voltamos nosso coração para o mistério do Teu Amor infinito. Tu que sendo eterno e glorioso, Te fizeste pequeno. Nasceste entre nós, em uma humilde tenda, envolto nos braços da Virgem Maria, sob o olhar silencioso de São José, e guardado pela presença dos pastores e da corte celeste.<br></br>
+        <br />
+        Jesus, Deus conosco, adoramos-Te com reverência e gratidão, porque vieste iluminar as trevas do mundo e trazer a paz aos corações aflitos. Maria, Mãe do Salvador, ensina-nos a acolher Jesus com pureza e fé. José, guardião da Sagrada Família, inspirai-nos na obediência e no silêncio diante dos mistérios de Deus.<br></br> 
+        <br />
+        Santo Anjo do Senhor, que anunciaste a grande alegria do nascimento do Messias, ajudai-nos a proclamar com a vida que Deus está conosco! Menino Deus, habita também em nossas tendas, transforma nosso lar em Belém, e nossa vida em um canto de louvor.</p>
+        <br />
+        <span>Amém.</span>
+        </div>
       </>
     )}
   </div>
