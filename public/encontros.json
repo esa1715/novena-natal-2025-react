@@ -58,9 +58,6 @@
             "letra": "<strong>Olhando a Sagrada Família:<br> Jesus, Maria e José.<br> Saibamos fazer a partilha<br> Dos gestos de amor e de fé! (bis)</strong><br><br> 1. Maria, Mãe Santa e esposa exemplar;<br> José, pai zeloso voltado ao seu lar.<br> Jesus, Filho amado em missão de salvar;<br> Caminhos distintos, num só caminhar.<br><br> 2. Maria do sim e do amor doação;<br> José, operário a serviço do pão.<br> Jesus ocupado com sua Missão.<br> Três vidas distintas num só coração."
         }
     },
-
-
-
     {
         "titulo": "O Anúncio dos Anjos\n A Igreja em Saída",
         "descricao": "\"Eu vos anuncio uma grande alegria,\n que será para todo o povo\" (Lc 2,10-11)",
@@ -79,35 +76,23 @@
             "letra": "1. Senhor, vem salvar teu povo<br> Das trevas da escuridão.<br> Só Tu és nossa esperança,<br> És nossa libertação<br><br><strong> Vem, Senhor,<br> Vem nos salvar!<br> Com teu povo<br> Vem caminhar! (bis)</strong><br><br> 2. Contigo o deserto é fértil,<br> A terra se abre em flor;<br> Da rocha brota água viva,<br> Da terra nasce esplendor.<br><br> 3. Tu marchas à nossa frente,<br> És força, caminho e luz.<br> Vem logo salvar teu povo,<br> Não tardes, Senhor Jesus."
         }
     },
-
-
-
-
-
-
-
-
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
     {
         "titulo": "Os Magos:\n Peregrinos na Busca da Verdade",
-        "descricao": "\"Vimos sua estrela no Oriente\n e viemos adorá-lo\" (Mt 2,1-3)",
-        "acolhidaCanto": {
-            "nome": "Vem, ó Senhor, com o Teu Povo Caminhar",
-            "video": "3E9NVncTTcM",
-            "letra": "<strong>Vem, ó Senhor, com teu povo caminhar!<br> Teu Corpo e Sangue, vida e força vem nos dar. (bis)</strong><br><br>1. A Boa Nova proclamai com alegria.<br> Deus vem a nós, Ele nos salva e nos recria.<br> E o deserto vai florir e se alegrar.<br> Da terra seca, flores, frutos vão brotar.<br><br>2. Eis nosso Deus e Ele vem para salvar,<br> Com sua força vamos juntos caminhar.<br> E construir um mundo novo e libertado<br> Do egoísmo, da injustiça e do pecado.<br><br>3. Uma voz clama no deserto com vigor:<br> Preparai hoje os caminhos do Senhor.<br> Tirai do mundo a violência e a ambição,<br> Que não vos deixam ver no outro vosso irmão."
-        },
-        "proclamacaoDaPalavra": {
-            "titulo": "Leitura do Livro de Isaías (9,1-2)",
-            "texto": "¹ Contudo, não haverá mais escuridão para os que estavam aflitos. No passado ele humilhou a terra de Zebulom e de Naftali, mas no futuro honrará a Galiléia dos gentios, o caminho do mar, junto ao Jordão. ² O povo que caminhava em trevas"
-        },
-        "oracaoFinalCanto": {
-            "nome": "Vigia Esperando Aurora",
-            "video": "4ZobBhmKkMY",
-            "letra": "<strong>Vigia esperando a aurora, qual noiva esperando o amor.<br> É assim que o servo espera a vinda do seu Senhor.<br> É assim que o servo espera a vinda do seu Senhor.</strong><br><br>1. Ao longe, um galo vai cantar seu canto.<br>O sol no céu, vai estender seu manto.<br> Na madrugada eu estarei desperto,<br>Que já vem perto o dia do Senhor<br><br>2. A minha voz vai acordar meu povo.<br> Louvando a Deus, que faz o mundo novo.<br> Não vou ligar se a madrugada é fria,<br> Que um novo dia logo vai chegar.<br><br>3. Se é noite escura, acendo a minha tocha.<br> Dentro do peito, o sol já desabrocha.<br> Filho da luz, não vou dormir: Vigio!<br> Ao mundo frio vou levar o amor."
-        }
-    },
-    {
-        "titulo": "Cristo: Luz para as Nações,\n Igreja em Missão",
-        "descricao": "\"O povo que andava nas trevas\n viu uma grande luz\" (Is 9,1-2)"
+        "descricao": "\"Vimos sua estrela no Oriente\n e viemos adorá-lo\" (Mt 2,1-3)"
     },
     {
         "titulo": "A Missão do Natal:\n Ser Igreja Sinodal e Missionária",
@@ -124,6 +109,70 @@
         }
 
     },
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    {
+        "titulo": "Cristo: Luz para as Nações,\n Igreja em Missão",
+        "descricao": "\"O povo que andava nas trevas\n viu uma grande luz\" (Is 9,1-2)",
+        "acolhidaCanto": {
+            "nome": "Vem, ó Senhor, com o Teu Povo Caminhar",
+            "video": "3E9NVncTTcM",
+            "letra": "<strong>Vem, ó Senhor, com teu povo caminhar!<br> Teu Corpo e Sangue, vida e força vem nos dar. (bis)</strong><br><br>1. A Boa Nova proclamai com alegria.<br> Deus vem a nós, Ele nos salva e nos recria.<br> E o deserto vai florir e se alegrar.<br> Da terra seca, flores, frutos vão brotar.<br><br>2. Eis nosso Deus e Ele vem para salvar,<br> Com sua força vamos juntos caminhar.<br> E construir um mundo novo e libertado<br> Do egoísmo, da injustiça e do pecado.<br><br>3. Uma voz clama no deserto com vigor:<br> Preparai hoje os caminhos do Senhor.<br> Tirai do mundo a violência e a ambição,<br> Que não vos deixam ver no outro vosso irmão."
+        },
+        "proclamacaoDaPalavra": {
+            "titulo": "Leitura do Livro de Isaías (9,1-2)",
+            "texto": "¹ Contudo, não haverá mais escuridão para os que estavam aflitos. No passado ele humilhou a terra de Zebulom e de Naftali, mas no futuro honrará a Galiléia dos gentios, o caminho do mar, junto ao Jordão. ² O povo que caminhava em trevas"
+        },
+        "oracaoFinalCanto": {
+            "nome": "Vigia Esperando Aurora",
+            "video": "4ZobBhmKkMY",
+            "letra": "<strong>Vigia esperando a aurora, qual noiva esperando o amor.<br> É assim que o servo espera a vinda do seu Senhor.<br> É assim que o servo espera a vinda do seu Senhor.</strong><br><br>1. Ao longe, um galo vai cantar seu canto.<br>O sol no céu, vai estender seu manto.<br> Na madrugada eu estarei desperto,<br>Que já vem perto o dia do Senhor<br><br>2. A minha voz vai acordar meu povo.<br> Louvando a Deus, que faz o mundo novo.<br> Não vou ligar se a madrugada é fria,<br> Que um novo dia logo vai chegar.<br><br>3. Se é noite escura, acendo a minha tocha.<br> Dentro do peito, o sol já desabrocha.<br> Filho da luz, não vou dormir: Vigio!<br> Ao mundo frio vou levar o amor."
+        }
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     {
         "titulo": "O Natal:\n Celebrar e Renovar a Esperança",
         "descricao": "\"E o verbo se fez carne e habitou\n entre nós.\" (Jo 1,9-14)"
