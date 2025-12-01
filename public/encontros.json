@@ -27,10 +27,6 @@
 
 
 
-
-
-
-
     {
         "titulo": "Maria: Modelo de Escuta\n e Caminho de Comunhão",
         "descricao": "\"Maria conservava todas essas palavras,\n meditando-as no seu coração\"\n(Lc 2,19-20)",
@@ -49,6 +45,10 @@
             "letra": "<strong>Da cepa brotou a rama,<br> Da rama brotou a flor;<br> Da flor nasceu Maria,<br> De Maria o Salvador. (bis)</strong><br><br> 1. O Espírito de Deus sobre Ele pousará,<br> De saber, de entendimento este Espírito será.<br> De conselho e fortaleza, de ciência e de temor<br> Achará sua alegria no temor do seu Senhor.<br><br> 2. Não será pela ilusão do olhar, do ouvir falar,<br> Que Ele irá julgar os homens, como é praxe acontecer,<br> Mas os pobres desta terra com justiça julgará<br> E dos fracos o direito Ele é quem defenderá."
         }
     },
+
+
+
+
 
     {
         "titulo": "José: O Discernimento\n e a Obediência na Missão",
@@ -69,24 +69,38 @@
         }
     },
 
+
+
+
+
     {
         "titulo": "O Anúncio dos Anjos\n A Igreja em Saída",
         "descricao": "\"Eu vos anuncio uma grande alegria,\n que será para todo o povo\" (Lc 2,10-11)",
         "acolhidaCanto": {
             "nome": "Senhor, Vem Salvar Teu Povo",
             "video": "znW8zv8FFYY",
-            "letra": "1. Senhor, vem salvar teu povo<br> Das trevas da escuridão.<br> Só Tu és nossa esperança,<br> És nossa libertação<br><br><strong> Vem, Senhor,<br> Vem nos salvar!<br> Com teu povo<br> Vem caminhar! (bis)</strong><br><br> 2. Contigo o deserto é fértil,<br> A terra se abre em flor;<br> Da rocha brota água viva,<br> Da terra nasce esplendor.<br><br> 3. Tu marchas à nossa frente,<br> És força, caminho e luz.<br> Vem logo salvar teu povo,<br> Não tardes, Senhor Jesus."
+            "letra": "1. Senhor, vem salvar teu povo<br> Das trevas da escuridão.<br> Só Tu és nossa esperança,<br> És nossa libertação<br><br><strong> Vem, Senhor, vem nos salvar!<br> Com teu povo vem caminhar! (bis)</strong><br><br> 2. Contigo o deserto é fértil,<br> A terra se abre em flor;<br> Da rocha brota água viva,<br> Da terra nasce esplendor.<br><br> 3. Tu marchas à nossa frente,<br> És força, caminho e luz.<br> Vem logo salvar teu povo,<br> Não tardes, Senhor Jesus."
         },
         "proclamacaoDaPalavra": {
             "titulo": "Evangelho segundo Lucas (2,10-11)",
             "texto": "¹⁰ Mas o anjo lhes disse: 'Não tenham medo. Estou lhes trazendo boas novas de grande alegria, que são para todo o povo: ¹¹ Hoje, na cidade de Davi, lhes nasceu o Salvador que é Cristo, o Senhor." 
         },
+        "brevesComentariosCanto": {
+            "nome": "Manda teus Anjos",
+            "video": "WafFHqNNg5M",
+            "letra": "<strong>Manda teus anjos, sobre nós.<br> E abençoa todos que esperam em vós.<br> Manda teus anjos, pra nos ensinar.<br> A te louvar, e glorificar. (bis)</strong><br><br> Envia também teu espírito de paz e amor.<br> O meu coração tem sede, do meu criador.<br> Envia Senhor os teus anjos pra nos resgatar,<br> Pra nos proteger de todo mal, para nos guiar, Senhor"
+        },
         "oracaoFinalCanto": {
             "nome": "Senhor, Vem Salvar Teu Povo",
             "video": "znW8zv8FFYY",
-            "letra": "1. Senhor, vem salvar teu povo<br> Das trevas da escuridão.<br> Só Tu és nossa esperança,<br> És nossa libertação<br><br><strong> Vem, Senhor,<br> Vem nos salvar!<br> Com teu povo<br> Vem caminhar! (bis)</strong><br><br> 2. Contigo o deserto é fértil,<br> A terra se abre em flor;<br> Da rocha brota água viva,<br> Da terra nasce esplendor.<br><br> 3. Tu marchas à nossa frente,<br> És força, caminho e luz.<br> Vem logo salvar teu povo,<br> Não tardes, Senhor Jesus."
+            "letra": "1. Senhor, vem salvar teu povo<br> Das trevas da escuridão.<br> Só Tu és nossa esperança,<br> És nossa libertação<br><br><strong> Vem, Senhor, vem nos salvar!<br> Com teu povo vem caminhar! (bis)</strong><br><br> 2. Contigo o deserto é fértil,<br> A terra se abre em flor;<br> Da rocha brota água viva,<br> Da terra nasce esplendor.<br><br> 3. Tu marchas à nossa frente,<br> És força, caminho e luz.<br> Vem logo salvar teu povo,<br> Não tardes, Senhor Jesus."
         }
     },
+
+
+
+
+
 
     {
         "titulo": "Os pastores:\n Uma Igreja de todos para todos",
