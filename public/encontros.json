@@ -28,9 +28,30 @@
         "acolhidaCanto": {
             "nome": "Pelas Estradas da Vida",
             "video": "4HSDYtWkhWA",
-            "letra": "Pelas estradas da vida, nunca sozinho estás.<br>Contigo pelo caminho, Santa Maria vai.<br><br><strong>Ó, vem conosco, vem caminhar Santa Maria vem. (bis)</strong><br><br>Se pelo mundo os homens, sem conhecer-se, vão,<br>Não negues nunca a tua mão a quem te encontrar"
+            "letra": "1. Pelas estradas da vida, nunca sozinho estás.<br> Contigo pelo caminho, Santa Maria vai.<br><br><strong> Ó vem conosco, vem caminhar, Santa Maria Vem. (bis)</strong><br><br> 2. Se pelo mundo os homens, sem conhecer-se vão,<br> Não negues nunca a tua mão a quem te encontrar.<br><br> 3. Mesmo que digam os homens, tu nada podes mudar.<br> Luta por um mundo novo de unidade e paz."
+        },
+        "proclamacaoDaPalavra": {
+            "titulo": "Evangelho segundo Lucas (2,19-20)",
+            "texto": "¹⁹ Mas Maria guardava todas estas coisas, conferindo-as em seu coração. ²⁰ E voltaram os pastores, glorificando e louvando a Deus por tudo o que tinham ouvido e visto, como lhes havia sido dito."
+        },
+        "oracaoFinalCanto": {
+            "nome": "Da Cepa Brotou a Rama",
+            "video": "lGBkzKsrTiU",
+            "letra": "<strong>Da cepa brotou a rama,<br> Da rama brotou a flor;<br> Da flor nasceu Maria,<br> De Maria o Salvador. (bis)</strong><br><br> 1. O Espírito de Deus sobre Ele pousará,<br> De saber, de entendimento este Espírito será.<br> De conselho e fortaleza, de ciência e de temor<br> Achará sua alegria no temor do seu Senhor.<br><br> 2. Não será pela ilusão do olhar, do ouvir falar,<br> Que Ele irá julgar os homens, como é praxe acontecer,<br> Mas os pobres desta terra com justiça julgará<br> E dos fracos o direito Ele é quem defenderá."
         }
     },
+
+
+
+
+
+
+
+
+
+
+
+
     {
         "titulo": "José: O Discernimento\n e a Obediência na Missão",
         "descricao": "\"Levanta-te, toma o menino e sua mãe,\n e foge para o Egito\" (Mt 2,13-15)",
