@@ -77,6 +77,34 @@
         }
     },
     
+
+
+
+
+
+    {
+        "titulo": "Os pastores:\nUma Igreja de todos para tods",
+        "descricao": "\"Foram apressamente e encontraram\n Maria, José e recém nascido deitado\n na manjedoura\" (Lc 2,16-17)",
+        "acolhidaCanto": {
+            "nome": "Como o Sol Nasce da Aurora",
+            "video": "KU-C1xAtC_w",
+            "letra": "1. Como o sol nasce da aurora de Maria nascerá<br> Aquele que a terra seca em jardim converterá.<br> Ó Belém, abre teus braços ao Pastor que a ti virá.<br><br><strong>Emanuel, Deus conosco, vem ao nosso mundo, vem!</strong><br><br>2. Ouve, ó Pastor do teu povo,<br> Vem do alto do céu onde estás!<br><br> 3. Vem teu rebanho salvar,<br> Mostra o amor que lhes tens!"
+        }, 
+        "proclamacaoDaPalavra": {
+            "titulo": "Evangelho segundo Lucas (2,16-17)",
+            "texto": "¹⁶ E foram apressadamente, e acharam Maria, e José, e o menino deitado na manjedoura. ¹⁷ E, vendo-o, divulgaram a palavra que acerca do menino lhes fora dita;"
+        },
+        "atividadeEmGrupoCanto": {
+            "nome": "Ouve-se na Terra um Grito",
+            "video": "5J_-hVjfaZM",
+            "letra": "<strong>Ouve-se na terra um grito,<br> Do povo um grande clamor:<br> Senhor, abre os céus,<br> Que as nuvens chovam o Salvador.</strong><br><br>1. É um só canto de amor e esperança;<br> Que a terra mãe, germinando contém<br> A ti, Senhor, nós clamamos:<br> Vem Senhor Jesus, vem!<br><br>2. Mesmo se as guerrras destroem a terra;<br> Pondo em perigo a paz e o bem;<br> Que a nossa voz não se canse:<br> Vem Senhor Jesus, vem!"
+        },
+        "oracaoFinalCanto": {
+            "nome": "Como o Sol Nasce da Aurora",
+            "video": "KU-C1xAtC_w",
+            "letra": "1. Como o sol nasce da aurora de Maria nascerá<br> Aquele que a terra seca em jardim converterá.<br> Ó Belém, abre teus braços ao Pastor que a ti virá.<br><br><strong>Emanuel, Deus conosco, vem ao nosso mundo, vem!</strong><br><br>2. Ouve, ó Pastor do teu povo,<br> Vem do alto do céu onde estás!<br><br> 3. Vem teu rebanho salvar,<br> Mostra o amor que lhes tens!"
+        }
+    },
     
     
     

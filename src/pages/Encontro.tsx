@@ -21,6 +21,7 @@ type Encontro = {
   acolhidaCanto?: Canto;
   proclamacaoDaPalavra?: Leitura;
   brevesComentariosCanto?: Canto;
+  atividadeEmGrupoCanto?: Canto;
   oracaoFinalCanto?: Canto;
 };
 
@@ -80,7 +81,6 @@ export default function Encontro() {
                     <p><strong>Letra:</strong></p>
                     <p className="letra-canto" dangerouslySetInnerHTML={{ __html: encontro.acolhidaCanto.letra }}/>
                   </div>
-                  
                 </>
               )}
             </div>
@@ -138,6 +138,36 @@ export default function Encontro() {
                 <br />
                 <p><strong>Letra:</strong></p>
                 <p className="letra-canto" dangerouslySetInnerHTML={{ __html: encontro.brevesComentariosCanto.letra }}/>
+              </div>
+            </div>
+          </section> 
+          </>
+          )}
+
+
+          {/* BREVES COMENTÁRIOS */}
+          {encontro.atividadeEmGrupoCanto && (
+          <>
+          <section className="secao">
+            <div className="secao-titulo">
+              <h3>ATIVIDADE EM GRUPO</h3>
+            </div>
+            <div className="secao-conteudo">                
+              <div className="player-container">
+                <iframe
+                  src={`https://www.youtube.com/embed/${encontro.atividadeEmGrupoCanto.video}`}
+                  title={`Player do YouTube - ${encontro.atividadeEmGrupoCanto.nome}`}
+                  // frameBorder="0"
+                  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                  allowFullScreen
+                  style={{ width: '100%', height: '100%' }}
+                />
+              </div>
+              <div className='canto-acolhida'>
+                <p><strong>Canto:</strong> {encontro.atividadeEmGrupoCanto.nome}</p>
+                <br />
+                <p><strong>Letra:</strong></p>
+                <p className="letra-canto" dangerouslySetInnerHTML={{ __html: encontro.atividadeEmGrupoCanto.letra }}/>
               </div>
             </div>
           </section> 
