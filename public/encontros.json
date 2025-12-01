@@ -28,7 +28,7 @@
         "acolhidaCanto": {
             "nome": "Pelas Estradas da Vida",
             "video": "4HSDYtWkhWA",
-            "letra": "1. Pelas estradas da vida, nunca sozinho estás.<br> Contigo pelo caminho, Santa Maria vai.<br><br><strong> Ó vem conosco, vem caminhar, Santa Maria Vem. (bis)</strong><br><br> 2. Se pelo mundo os homens, sem conhecer-se vão,<br> Não negues nunca a tua mão a quem te encontrar.<br><br> 3. Mesmo que digam os homens, tu nada podes mudar.<br> Luta por um mundo novo de unidade e paz."
+            "letra": "1. Pelas estradas da vida,<br> Nunca sozinho estás.<br> Contigo pelo caminho,<br> Santa Maria vai.<br><br><strong> Ó vem conosco, vem caminhar, Santa Maria Vem. (bis)</strong><br><br> 2. Se pelo mundo os homens,<br> Sem conhecer-se vão,<br> Não negues nunca a tua mão<br> A quem te encontrar.<br><br> 3. Mesmo que digam os homens,<br> Tu nada podes mudar.<br> Luta por um mundo novo<br> De unidade e paz."
         },
         "proclamacaoDaPalavra": {
             "titulo": "Evangelho segundo Lucas (2,19-20)",
@@ -56,34 +56,30 @@
         "titulo": "José: O Discernimento\n e a Obediência na Missão",
         "descricao": "\"Levanta-te, toma o menino e sua mãe,\n e foge para o Egito\" (Mt 2,13-15)",
         "acolhidaCanto": {
-  "nome": "Nome do Canto",
-  "video": "ID_DO_VIDEO",
-  "letra": "Letra do canto aqui..."
-}
-
-
-    },
-    {
-        "titulo": "O Anúncio dos Anjos:\n A Igreja em Saída",
-        "descricao": "\"Eu vos anuncio uma grande alegria,\n que será para todo o povo\" (Lc 2,10-11)",
-        "acolhidaCanto": {
-            "nome": "Nome do Canto",
-            "video": "ID_DO_VIDEO",
-            "letra": "Letra do canto aqui..."
+            "nome": "Simples José",
+            "video": "B7SM8TpdZkU",
+            "letra": "1. Eu tão simples, tão pequeno. Um carpinteiro e nada mais.<br> Mas meu Deus olhou pra mim. E me escolheu pra ser pai do Filho seu.<br> Eis-me aqui, faça-se em mim o Teu querer.<br> Sou teu José. Simples José, e nada mais. (bis)<br><br><strong> Eu sou escravo de Tua promessa.<br> Feito para amar até o fim<br> Eu sou escravo da Tua promessa.<br> E sou feliz vivendo assim.</strong>"
+        },
+        "proclamacaoDaPalavra": {
+            "titulo": "Evangelho segundo Mateus (2,13-15)",
+            "texto": "¹³ Depois que partiram, um anjo do Senhor apareceu a José em sonho e disse-lhe: 'Levante-se, tome o menino e sua mãe, e fuja para o Egito. Fique lá até que eu lhe diga, pois Herodes vai procurar o menino para matá-lo'. ¹⁴ Então ele se levantou, tomou o menino e sua mãe durante a noite, e partiu para o Egito, ¹⁵ onde ficou até a morte de Herodes. E assim se cumpriu o que o Senhor tinha dito pelo profeta: 'Do Egito chamei o meu filho'."
+        },
+        "oracaoFinalCanto": {
+            "nome": "Olhando a Sagrada Família",
+            "video": "-bc61y2zhDY",
+            "letra": "<strong>Olhando a Sagrada Família:<br> Jesus, Maria e José.<br> Saibamos fazer a partilha<br> Dos gestos de amor e de fé! (bis)</strong><br><br> 1. Maria, Mãe Santa e esposa exemplar;<br> José, pai zeloso voltado ao seu lar.<br> Jesus, Filho amado em missão de salvar;<br> Caminhos distintos, num só caminhar.<br><br> 2. Maria do sim e do amor doação;<br> José, operário a serviço do pão.<br> Jesus ocupado com sua Missão.<br> Três vidas distintas num só coração."
         }
     },
-    {
-        "titulo": "Os pastores:\n Uma Igreja de todos para todos",
-        "descricao": "\"Foram apressadamente e encontraram\n Maria, José e o recém-nascido deitado\n na manjedoura\" (Lc 2,16-17)",
-        
-        "acolhidaCanto": {
-  "nome": "Nome do Canto",
-  "video": "ID_DO_VIDEO",
-  "letra": "Letra do canto aqui..."
-}
 
 
-    },
+
+
+
+
+
+
+
+
     {
         "titulo": "Os Magos:\n Peregrinos na Busca da Verdade",
         "descricao": "\"Vimos sua estrela no Oriente\n e viemos adorá-lo\" (Mt 2,1-3)",
