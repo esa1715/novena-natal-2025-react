@@ -40,18 +40,6 @@
             "letra": "<strong>Da cepa brotou a rama,<br> Da rama brotou a flor;<br> Da flor nasceu Maria,<br> De Maria o Salvador. (bis)</strong><br><br> 1. O Espírito de Deus sobre Ele pousará,<br> De saber, de entendimento este Espírito será.<br> De conselho e fortaleza, de ciência e de temor<br> Achará sua alegria no temor do seu Senhor.<br><br> 2. Não será pela ilusão do olhar, do ouvir falar,<br> Que Ele irá julgar os homens, como é praxe acontecer,<br> Mas os pobres desta terra com justiça julgará<br> E dos fracos o direito Ele é quem defenderá."
         }
     },
-
-
-
-
-
-
-
-
-
-
-
-
     {
         "titulo": "José: O Discernimento\n e a Obediência na Missão",
         "descricao": "\"Levanta-te, toma o menino e sua mãe,\n e foge para o Egito\" (Mt 2,13-15)",
@@ -72,6 +60,25 @@
     },
 
 
+
+    {
+        "titulo": "O Anúncio dos Anjos\n A Igreja em Saída",
+        "descricao": "\"Eu vos anuncio uma grande alegria,\n que será para todo o povo\" (Lc 2,10-11)",
+        "acolhidaCanto": {
+            "nome": "Senhor, Vem Salvar Teu Povo",
+            "video": "znW8zv8FFYY",
+            "letra": "1. Senhor, vem salvar teu povo<br> Das trevas da escuridão.<br> Só Tu és nossa esperança,<br> És nossa libertação<br><br><strong> Vem, Senhor,<br> Vem nos salvar!<br> Com teu povo<br> Vem caminhar! (bis)</strong><br><br> 2. Contigo o deserto é fértil,<br> A terra se abre em flor;<br> Da rocha brota água viva,<br> Da terra nasce esplendor.<br><br> 3. Tu marchas à nossa frente,<br> És força, caminho e luz.<br> Vem logo salvar teu povo,<br> Não tardes, Senhor Jesus."
+        },
+        "proclamacaoDaPalavra": {
+            "titulo": "Evangelho segundo Lucas (2,10-11)",
+            "texto": "¹⁰ Mas o anjo lhes disse: 'Não tenham medo. Estou lhes trazendo boas novas de grande alegria, que são para todo o povo: ¹¹ Hoje, na cidade de Davi, lhes nasceu o Salvador que é Cristo, o Senhor." 
+        },
+        "oracaoFinalCanto": {
+            "nome": "Senhor, Vem Salvar Teu Povo",
+            "video": "znW8zv8FFYY",
+            "letra": "1. Senhor, vem salvar teu povo<br> Das trevas da escuridão.<br> Só Tu és nossa esperança,<br> És nossa libertação<br><br><strong> Vem, Senhor,<br> Vem nos salvar!<br> Com teu povo<br> Vem caminhar! (bis)</strong><br><br> 2. Contigo o deserto é fértil,<br> A terra se abre em flor;<br> Da rocha brota água viva,<br> Da terra nasce esplendor.<br><br> 3. Tu marchas à nossa frente,<br> És força, caminho e luz.<br> Vem logo salvar teu povo,<br> Não tardes, Senhor Jesus."
+        }
+    },
 
 
 
