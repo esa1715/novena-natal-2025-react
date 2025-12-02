@@ -37,20 +37,28 @@ main {
 footer {
     display: flex;
     flex-direction: column;
-    justify-content: center;
-    gap: 0.5rem;
+    align-items: center; 
     text-align: center;
-    padding: 0.5rem 1rem;
+    padding:  1rem;
     background: linear-gradient(90deg, #11316B, #0C1F3F);
     color: #FFFFFF;
     font-size: 0.875rem;
+}
+
+.footer-content {
+    display: flex;
+    gap: 0.75rem;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 70%;
 }
 
 .social-icons {
     display: flex;
     justify-content: center;
     gap: 1rem;
-    margin-top: 0.5rem;
+    /* margin-top: 0.5rem; */
 }
 
 .social-icons a {
