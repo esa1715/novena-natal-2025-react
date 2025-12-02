@@ -204,45 +204,33 @@
             "letra": "1. Pelas estradas da vida,<br> Nunca sozinho estás.<br> Contigo pelo caminho,<br> Santa Maria vai.<br><br><strong> Ó vem conosco, vem caminhar, Santa Maria Vem. (bis)</strong><br><br> 2. Se pelo mundo os homens,<br> Sem conhecer-se vão,<br> Não negues nunca a tua mão<br> A quem te encontrar.<br><br> 3. Mesmo que digam os homens,<br> Tu nada podes mudar.<br> Luta por um mundo novo<br> De unidade e paz."
         }
 
-    }
-
-
-    
-    
-    
-    
-    
-    
-    
-    
-    
+    },
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
+    { 
+        "titulo": "O Natal:\n Celebrar e Renovar a Esperança",
+        "descricao": "\"E o Verbo se fez carne e habitou\n entre nós\" (Jo 1,9-14)",
+        "acolhidaCanto": {
+            "nome": "Noite Feliz",
+            "video": "ncqwa0i2aiE",
+            "letra": "Noite feliz, noite feliz<br> Ó Senhor, Deus de amor<br> Pobrezinho nasceu em Belém<br> Eis na lapa, Jesus nosso bem<br><br><strong>Dorme em paz, ó Jesus<br>Dorme em paz, ó Jesus</strong><br><br>Noite feliz, noite feliz<br> Ó Jesus, Deus da luz<br> Quão afável é Teu coração<br> Que quiseste nascer nosso irmão<br><br><strong>E a nõs todos salvar<br>E a nós todos salvar</strong><br><br> Noite feliz, noite feliz<br> Eis que no ar vem cantar<br> Aos pastores, os anjos do céu<br> Anunciando a chegada de Deus<br><br><strong>De Jesus, Salvador<br> De Jesus, Salvador</strong><br><br> Noite feliz, noite feliz<br> Ó Senhor, Deus de amor<br> Pobrezinho nasceu em Belém<br> Eis na lapa, Jesus nosso bem<br><br> <strong> Dorme em paz, ó Jesus<br> Dorme em paz, ó Jesus</strong>"
+        },
+        "proclamacaoDaPalavra": {
+            "titulo": "Evangelho segundo João (1,9-14)",
+            "texto": "⁹ Ali estava a luz verdadeira, que ilumina a todo o homem que vem ao mundo. ¹⁰ Estava no mundo, e o mundo foi feito por ele, e o mundo não o conheceu. ¹¹ Veio para o que era seu, e os seus não o receberam. ¹² Mas, a todos quantos o receberam, deu-lhes o poder de serem feitos filhos de Deus, aos que creem no seu nome; ¹³ Os quais não nasceram do sangue, nem da vontade da carne, nem da vontade do homem, mas de Deus."
+        },
+        "brevesComentariosCanto": {
+            "nome": "Vigia Esperando Aurora",
+            "video": "4ZobBhmKkMY",
+            "letra": "<strong>Vigia esperando a aurora, qual noiva esperando o amor.<br> É assim que o servo espera a vinda do seu Senhor.<br> É assim que o servo espera a vinda do seu Senhor.</strong><br><br>1. Ao longe, um galo vai cantar seu canto.<br>O sol no céu vai estender seu manto.<br> Na madrugada eu estarei desperto,<br>Que já vem perto o dia do Senhor.<br><br>2. A minha voz vai acordar meu povo.<br> Louvando a Deus, que faz o mundo novo.<br> Não vou ligar se a madrugada é fria,<br> Que um novo dia logo vai chegar.<br><br>3. Se é noite escura, acendo a minha tocha.<br> Dentro do peito, o sol já desabrocha.<br> Filho da luz, não vou dormir: Vigio!<br> Ao mundo frio vou levar o amor."
+        },
+        "oracaoFinalCanto": {
+            "nome": "Noite Feliz",
+            "video": "ncqwa0i2aiE",
+            "letra": "Noite feliz, noite feliz<br> Ó Senhor, Deus de amor<br> Pobrezinho nasceu em Belém<br> Eis na lapa, Jesus nosso bem<br><br><strong>Dorme em paz, ó Jesus<br>Dorme em paz, ó Jesus</strong><br><br>Noite feliz, noite feliz<br> Ó Jesus, Deus da luz<br> Quão afável é Teu coração<br> Que quiseste nascer nosso irmão<br><br><strong>E a nõs todos salvar<br>E a nós todos salvar</strong><br><br> Noite feliz, noite feliz<br> Eis que no ar vem cantar<br> Aos pastores, os anjos do céu<br> Anunciando a chegada de Deus<br><br><strong>De Jesus, Salvador<br> De Jesus, Salvador</strong><br><br> Noite feliz, noite feliz<br> Ó Senhor, Deus de amor<br> Pobrezinho nasceu em Belém<br> Eis na lapa, Jesus nosso bem<br><br> <strong> Dorme em paz, ó Jesus<br> Dorme em paz, ó Jesus</strong>"
+        }
+    }   
 ]
