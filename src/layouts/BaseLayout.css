@@ -12,7 +12,7 @@ nav {
     position: sticky;
     top: 0;
     z-index: 1000;
-    padding: 0.75%;    
+    padding: 0.25rem;    
     background: linear-gradient(90deg, #11316B, #0C1F3F);
     color: #FFFFFF;
     box-shadow: 0 4px 10px rgba(8, 26, 58, 0.6);
@@ -35,9 +35,30 @@ main {
 }
 
 footer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 0.5rem;
     text-align: center;
-    padding: 0.5rem;
+    padding: 0.5rem 1rem;
     background: linear-gradient(90deg, #11316B, #0C1F3F);
     color: #FFFFFF;
     font-size: 0.875rem;
+}
+
+.social-icons {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    margin-top: 0.5rem;
+}
+
+.social-icons a {
+    font-size: 1.5rem;
+    transition: opacity 0.3s;
+    color: inherit;
+}
+
+.social-icons a:hover {
+    opacity: 0.7;
 }
