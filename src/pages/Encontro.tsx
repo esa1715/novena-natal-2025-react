@@ -43,6 +43,9 @@ export default function Encontro() {
 
   return (
     <BaseLayout>
+      <div className='voltar-btn-container'>
+        <button className='voltar-btn' onClick={() => {window.location.href = "/";}}>VER TODOS OS ENCONTROS</button>
+      </div>
       <div className="card-container">
         <article className="card">
           <div className="numero-dia">
